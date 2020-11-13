@@ -1,4 +1,4 @@
-# Django Styleguide
+# Pareto - Django Styleguide
 
 Django styleguide used in [HackSoft](https://hacksoft.io) projects.
 
